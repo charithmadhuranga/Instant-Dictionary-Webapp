@@ -1,0 +1,33 @@
+[project]
+name = "app-8-instant-dictionary-webapp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "addict",
+    "aiofiles",
+    "certifi",
+    "chardet",
+    "click",
+    "h11",
+    "httpcore",
+    "httpx",
+    "idna",
+    "itsdangerous",
+    "Jinja2",
+    "justpy",
+    "MarkupSafe",
+    "numpy",
+    "pandas",
+    "python-dateutil",
+    "pytz",
+    "requests",
+    "rfc3986",
+    "six",
+    "sniffio",
+    "starlette",
+    "urllib3",
+    "uvicorn",
+    "websockets",
+]
